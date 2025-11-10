@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Estado: esperando"
+        android:textSize="16sp"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btnStartTracking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Iniciar rastreo" />
+
+    <Button
+        android:id="@+id/btnStopTracking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Detener rastreo"
+        android:layout_marginTop="12dp" />
+
+    <Button
+        android:id="@+id/btnSendSim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enviar ubicación simulada"
+        android:layout_marginTop="18dp" />
+
+</LinearLayout>
