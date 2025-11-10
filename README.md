@@ -1,9 +1,3 @@
-Claro, para tenerlo listo para descargar, te dejo el contenido completo del `README.md` que puedes copiar y pegar en un archivo en tu PC:
-
-1. Abre un editor de texto (VS Code, Notepad++, Sublime, incluso Bloc de notas).
-2. Crea un nuevo archivo y pégale esto:
-
-````markdown
 # 📍 GeoTracker App
 
 App Android en Kotlin para rastrear la ubicación del dispositivo y enviarla a un servidor simple (Node.js).
