@@ -30,7 +30,7 @@ App Android en Kotlin para rastrear la ubicación del dispositivo y enviarla a u
 1. Clonar repo:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-````
+``
 
 2. Abrir `GeoTrackerApp/` en Android Studio
 3. Construir y ejecutar en tu dispositivo
